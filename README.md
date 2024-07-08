@@ -59,14 +59,6 @@ or with multiple arguments:
 - API usage may be subject to rate limiting or monthly caps. Monitor your usage to stay within desired limits.
 - The function is designed for text-based queries and responses. It may not be suitable for complex data processing tasks.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Disclaimer
 
 This tool is provided as-is, without any warranties. Users are responsible for managing their own API usage and associated costs.
